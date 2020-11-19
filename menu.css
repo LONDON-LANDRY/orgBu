@@ -1,0 +1,23 @@
+
+				#yes{background-color:orange}
+				#yes a{color:black; }
+				#logo{	box-shadow: 5px 4px 10px grey;}
+				#menu{background-color:orange;padding:15px;border-radius:25px 0px 25px 0px;	box-shadow: 5px 4px 10px grey;}
+				#color_pad{padding-left:80px;}
+				#color_pad tr th{padding-left:20px}
+				#color_pad a:link{color:black;text-decoration:none;}
+				#color_pad a:hover{color:black;text-decoration:none;background-color:white;padding:14.5px;border-radius:25px 0px 25px 0px;}
+				#color_pad a:visited{color:black;text-decoration:none;}
+				#color_pad a:active{color:red;text-decoration:underline;}
+				footer{border:1px solid orange;border-radius:15px;text-shadow: 1px 1px 2px grey;background-color:orange; }
+				footer img{width: 30px;}
+				footer th{font-size:25px; text-shadow: 1px 1px 2px grey; color:#000;}
+				footer td {padding-left: 200px; }
+				footer tr {padding-left: 200px; }
+				
+				footer th {padding-left: 200px; }
+				footer a{color: black;font-size:18px;font-family: arial;text-decoration: none;}
+				footer p{color:white;background: black;border-radius: 12px;}
+
+				.info-perso{text-shadow: 1px 1px 2px orange; text-align: center;}
+				legend{text-shadow: 1px 1px 2px orange;}
